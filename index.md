@@ -21,9 +21,9 @@ nav_order: 1
  </iframe>
 </div>
 
-# The end goal of the workshop is to produce an interactive webmap like this!
-* This map shows all known of police involved killings in Canada between 2000 & 2017
-* Webmapping is a powerful tool that can be used to promote social justice
+# The end goal of the workshop is to produce an infographic on Police violence in Canada like this!
+* We'll show all known of police involved killings in Canada between 2000 & 2017
+* We'll look at the spatial distribution of incidents and analyze racial dispariteis.
 
 <a href="PoliceViolenceIncidents.html" target="_blank">View map in new tab</a>
 
