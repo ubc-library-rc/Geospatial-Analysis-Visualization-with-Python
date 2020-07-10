@@ -7,7 +7,7 @@ nav_order: 2
 # The first step is to open up your python server and "download" the workshop files
 * UBC provides students with server space where you can run python
 * This is good for getting your bearings becasue everything is already set up.  You don't have to worry about installing anything on your own system.
-* Click this link to start your server: https://ubc.syzygy.ca/jupyter
+* Click [this link](https://ubc.syzygy.ca/jupyter) to access your server 
   * Login with your CWL.  You'll then be taken to a blank jupyter notebook!
 * Now we're ready to add some files!
   * To do this, we open a comand terminal, and clone the github repository containing all the necisary files.
