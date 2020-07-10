@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <!-- Title of page (as it will appear in search results) -->
+  <title>Workshop Overview</title>
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href="https://ubc-library-rc.github.io/reveal-ubc/css/reset.css">
+	<link rel="stylesheet" href="https://ubc-library-rc.github.io/reveal-ubc/css/reveal.css">
+	<link rel="stylesheet" href="https://ubc-library-rc.github.io/reveal-ubc/css/ubc.css" id="theme">
+
+	<!-- Theme used for syntax highlighting of code -->
+	<link rel="stylesheet" href="https://ubc-library-rc.github.io/reveal-ubc/lib/css/monokai.css">
+
+	<!-- Printing and PDF exports -->
+	<script>
+		var link = document.createElement( 'link' );
+		link.rel = 'stylesheet';
+		link.type = 'text/css';
+		link.href = window.location.search.match( /print-pdf/gi ) ? 'https://ubc-library-rc.github.io/reveal-ubc/css/print/pdf.css' : 'https://ubc-library-rc.github.io/reveal-ubc/css/print/paper.css';
+		document.getElementsByTagName( 'head' )[0].appendChild( link );
+	</script>
+
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+
+<body>
+
+  <div class="reveal">
+
+	<!-- Any section element inside of this container is displayed as a slide -->
+		<div class="slides">
+
+      <section>
+        <h2>An introduction to geocoding and web mapping with Python!</h2>
+      </section>
+
+      <section data-background="#e6f7ff">
+        <h3>Overview</h3>
+        <p>Python is a great languate</p>
+        <p> </p>
+        <p>It's super flexible, and has lots of packages for GIS. We'll be using Jupyter Notebooks run on a UBC Server.
+        	Don't worry, you won't need to know any coding!  I'll walk you through the whole process step by step!
+        </p>
+      </section>
+
+      <section>
+        <h3>Learing Outcomes</h3>
+        	<p>1) General Overview of how GIS in Python Works           </p>
+        	<p>2) How to use Geocoding to get coordinates from addresses</p>
+        	<p>3) How to make a webmap with Python                      </p>
+      </section>		
+
+
+      <section>
+        <h3>Python</h3>
+        	<p>1) Its a great languate! </p>
+        	<p>2) It's super flexible, and has lots of packages for Geospatial Analysis & Visualization.</p>
+        	<p>3) We'll be using Jupyter Notebooks run on a UBC Server. </p>
+        	<p>4) Don't worry, you won't need to know any coding!  I'll walk you through the whole process step by step!</p>
+      </section>		
+
+      <section>
+        <h3>Geocoding</h3>
+        	<p>Geocoding is the process of attributing coordiantes (Latitude/Longitude) to descriptive locations (Street Address)</p>
+        	<p>With Python, we can use a variety of web based services (goolge maps, mapbox, open street maps, etc.) to perform geocoding</p>
+      </section>		
+
+      <section>
+        <h3>Webmapping</h3>
+        	<p>Web mapping takes cartography beyond static maps.  It allows you to create dynamic, interactive maps.</p>
+      </section>		
+
+      <section>
+        <h3>The Dataset</h3>
+        	<p>We'll be woring with a dataset of police killings in Canada from 2000-2017.  We'll explore and map the data to investigate trends.  The data was initally collected by the CBC.</p>
+      </section>	
+
+      <section>
+        <h3>Steps</h3>
+        	<p>1) Its a great languate! </p>
+        	<p>2) It's super flexible, and has lots of packages for Geospatial Analysis & Visualization.</p>
+        	<p>3) We'll be using Jupyter Notebooks run on a UBC Server. </p>
+        	<p>4) Don't worry, you won't need to know any coding!  I'll walk you through the whole process step by step!</p>
+      </section>	
+      
+
+
+
+		</div>
+
+	</div>
+
+	<script src="https://ubc-library-rc.github.io/reveal-ubc/js/reveal.js"></script>
+
+	<script>
+
+		// More info https://github.com/hakimel/reveal.js#configuration
+		Reveal.initialize({
+			controls: true,
+			progress: true,
+			// center: true,
+			hash: true,
+
+			transition: 'none', // none/fade/slide/convex/concave/zoom
+
+		// More info https://github.com/hakimel/reveal.js#dependencies
+			dependencies: [
+				{ src: 'https://ubc-library-rc.github.io/reveal-ubc/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+				{ src: 'https://ubc-library-rc.github.io/reveal-ubc/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+				{ src: 'https://ubc-library-rc.github.io/reveal-ubc/plugin/highlight/highlight.js' },
+				{ src: 'https://ubc-library-rc.github.io/reveal-ubc/plugin/search/search.js', async: true },
+				{ src: 'https://ubc-library-rc.github.io/reveal-ubc/plugin/zoom-js/zoom.js', async: true },
+				{ src: 'https://ubc-library-rc.github.io/reveal-ubc/plugin/notes/notes.js', async: true }
+				]
+			});
+
+	</script>
+
+	</body>
+</html>
