@@ -21,6 +21,25 @@ nav_order: 1
  </iframe>
 </div>
 
+## Learning Objectives:
+
+* Import, Parse, and Plot tabular data
+* Join Tabular & Spatial Data
+* Reproject Coordinate Systems
+* Data Normalization w/ Census Data
+* Create an Infographic
+* Create a heatmap (Maybe, if time allows??)
+
+### GIS w/ Python: Resources:
+
+https://gis.stackexchange.com/
+
+https://geopandas.org/
+
+https://matplotlib.org/
+
+
+
 # The end goal of the workshop is to produce an infographic on Police violence in Canada like this!
 * We'll show all known of police involved killings in Canada between 2000 & 2017
 * We'll look at the spatial distribution of incidents and analyze racial dispariteis.
