@@ -24,11 +24,11 @@ In the terminal type "git clone https://github.com/ubc-library-rc/Geospatial-Ana
   position: relative">
   <iframe src="git_Clone.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
-   height: 150%;
+   height: 100%;
    left: 0;
    position: absolute;
    top: 0;
-   width: 150%;">
+   width: 100%;">
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
