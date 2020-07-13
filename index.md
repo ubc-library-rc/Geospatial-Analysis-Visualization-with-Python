@@ -51,11 +51,11 @@ https://matplotlib.org/
   position: relative">
   <iframe src="InfoGraphic.png" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
-   height: "400";
+   height: 100%;
    left: 0;
    position: absolute;
    top: 0;
-   width: "400";">
+   width: 100%;">
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
