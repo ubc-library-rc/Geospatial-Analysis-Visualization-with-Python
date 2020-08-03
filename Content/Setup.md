@@ -1,26 +1,26 @@
 ---
 layout: default
-title: Setup
-nav_order: 2
+title: Getting Started
+nav_order: 3
 ---
 
 # Step 1) Start python
 
-###UBC provides students with server space where you can run python using a [Jupyter](https://ubc.syzygy.ca/jupyter)
+### UBC provides students with server space where you can run python using a [Jupyter Notebook](https://ubc.syzygy.ca/jupyter)
 * This is good for getting your bearings becasue everything is already set up.  You don't have to worry about installing anything on your own system.
- * Login with your CWL.  You'll then be taken to a blank jupyter notebook!
-
-* Now we're ready to add some files!
-  * To do this, we open a comand terminal, and clone the gitWorkshop Designhub repository containing all the necisary files.
-  * This may sound intimidating/confusing.  But don't worry, its easy.  You don't need to know comand line to do this.  I'll walk you through step by step!!
+ * Login with your CWL.  You'll then be taken to a blank jupyter window!
 
 # Step 2) Download the workshop files
 
-### 1a) Copy the text inside the quotes "git clone https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python/" from the drop down menu.
+* Now we're ready to add some files!
+  * To do this, we open a comand terminal, and clone the github repository containing all the necisary files.
+  * This may sound intimidating/confusing.  But don't worry, its easy.  You don't need to know comand line to do this.  I'll walk you through step by step!!
 
-### 1b) In they Jupyter window you just opened, click "New" in the top right and selecte "Terminal" from the dropdown menu
+### 2a) Copy the text inside the quotes "git clone https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python/" from the drop down menu.
 
-### 1c) In the new terminal window that opens, right click and paste the git clone command into the terminal window.  Then hit enter
+### 2b) In they Jupyter window you just opened, click "New" in the top right and selecte "Terminal" from the dropdown menu
+
+### 2c) In the new terminal window that opens, right click and paste the git clone command into the terminal window.  Then hit enter
 * "git clone" is a command that tells git (a file tracking software) to to download a set of programs and files known as a repository
 * https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python is the location of the repository for this workshop
 
@@ -39,3 +39,16 @@ nav_order: 2
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
+
+# Step 3) Navigating Jupyter Notebooks
+
+* After cloning the repository, you will notice a folder titled "Geospatial Analysis and Visualization with Python" appear
+  * Double clicking the folder will open it.
+  * You'll see a couple more folders and a collection of files
+* Files with the .ipynb tag on the end are "Jupyter Notebooks" 
+  * You'll notice two inside:
+      * Geospatial Analysis & Visualization with Python.ipynb
+        * This is he notebook we'll be using if you plan to follow along live
+        * There are a few points in here where write/edit the code to work through some problems
+      * Self Workthru Geospatial Analysis & Visualization with Python.ipynb
+        * This version is fully functional as is and can be used if you want to work through this on your own or copy some of the code.
