@@ -22,7 +22,7 @@ nav_order: 3
 ### git clone https://github.com/ubc-library-rc/Geospatial-Analysis-Visualization-with-Python
 
 * "git clone" is a command that tells git (a file tracking software) to to download a set of programs and files known as a repository
-* url is the location of the repository for this workshop with all the files and code
+* [url](https://github.com/ubc-library-rc/Geospatial-Analysis-Visualization-with-Python) is the location of the repository for this workshop with all the files and code
 
 <a href="git_Clone.mp4" target="_blank">Open Video in new tab</a>
 
