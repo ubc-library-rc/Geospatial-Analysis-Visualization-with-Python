@@ -11,8 +11,9 @@ nav_order: 2
 
 ### GIS w/ Python: Resources:
 
-* A great place to go if you're having issues with python is [Stack Exchange](https://gis.stackexchange.com/)
+* A great place to go if you're having issues with python is [Stack Overflow](https://stackoverflow.com/)
 	* Its a popular forum where you can search, post, and answer coding questions.
+* A related site that is more GIS focused site is [Stack Exchnage](https://gis.stackexchange.com/)
 
 
 # Python relies on a series of packages (aka libraries) to handle different tasks
