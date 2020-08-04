@@ -13,7 +13,7 @@ nav_order: 3
 # Step 2) Download the workshop files
 
 ## a) To do this, we open a comand terminal, and clone the github repository containing all the necisary files.
-* This may sound intimidating/confusing.  But don't worry, its easy.  You don't need to know comand line to do this.  I'll walk you through step by step!!
+* This may sound intimidating/confusing.  But don't worry, its easy.  You don't need to know comand line to do this.
 
 ## b) In they Jupyter window you just opened, click "New" in the top right and selecte "Terminal" from the dropdown menu
 
