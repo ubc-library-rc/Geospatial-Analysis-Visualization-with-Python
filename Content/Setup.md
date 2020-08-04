@@ -50,5 +50,5 @@ nav_order: 3
       * Geospatial Analysis & Visualization with Python.ipynb
         * This is he notebook we'll be using if you plan to follow along live
         * There are a few points in here where write/edit the code to work through some problems
-      * Self Workthru Geospatial Analysis & Visualization with Python.ipynb
+      * Backup.ipynb
         * This version is fully functional as is and can be used if you want to work through this on your own or copy some of the code.
