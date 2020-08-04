@@ -21,11 +21,10 @@ nav_order: 1
  </iframe>
 </div>
 
-## Learning Objectives:
 
-# The end goal of the workshop is to produce an infographic on Police violence in Canada like this!
-* We'll show all known of police involved killings in Canada between 2000 & 2017
-* We'll look at the spatial distribution of incidents and analyze racial dispariteis.
+
+
+# The end goal of the workshop is to produce an infographic on Police violence in Canada like this one.
 
 <a href="InfoGraphic.png" target="_blank">Open in New Tab</a>
 
