@@ -12,17 +12,14 @@ nav_order: 3
 
 # Step 2) Download the workshop files
 
-* Now we're ready to add some files!
-  * To do this, we open a comand terminal, and clone the github repository containing all the necisary files.
-  * This may sound intimidating/confusing.  But don't worry, its easy.  You don't need to know comand line to do this.  I'll walk you through step by step!!
+## a) To do this, we open a comand terminal, and clone the github repository containing all the necisary files.
+* This may sound intimidating/confusing.  But don't worry, its easy.  You don't need to know comand line to do this.  I'll walk you through step by step!!
 
-### 2a) Copy the text inside the quotes "git clone https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python/" from the drop down menu.
+## b) In they Jupyter window you just opened, click "New" in the top right and selecte "Terminal" from the dropdown menu
 
-### 2b) In they Jupyter window you just opened, click "New" in the top right and selecte "Terminal" from the dropdown menu
+## c) In the new terminal window that opens, right click and paste the following command into the terminal window then hit enter:
 
-### 2c) In the new terminal window that opens, right click and paste the following command into the terminal window.  Then hit enter:
-
-# git clone https://github.com/ubc-library-rc/Geospatial-Analysis-Visualization-with-Python
+### git clone https://github.com/ubc-library-rc/Geospatial-Analysis-Visualization-with-Python
 
 * "git clone" is a command that tells git (a file tracking software) to to download a set of programs and files known as a repository
 * url is the location of the repository for this workshop with all the files and code
