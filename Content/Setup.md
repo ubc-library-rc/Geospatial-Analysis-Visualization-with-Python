@@ -7,15 +7,15 @@ nav_order: 3
 # Step 1) Start python
 
 ### UBC provides students with server space where you can run python using a [Jupyter Notebook](https://ubc.syzygy.ca/jupyter)
-* This is good for getting your bearings becasue everything is already set up.  You don't have to worry about installing anything on your own system.
+* This is good for getting your bearings because everything is already set up.  You don't have to worry about installing anything on your own system.
  * Login with your CWL.  You'll then be taken to a blank jupyter window!
 
 # Step 2) Download the workshop files
 
-## a) To do this, we open a comand terminal, and clone the github repository containing all the necisary files.
-* This may sound intimidating/confusing.  But don't worry, its easy.  You don't need to know comand line to do this.
+## a) To do this, we open a command terminal, and clone the github repository containing all the necessary files.
+* This may sound intimidating/confusing.  But don't worry, its easy.  You don't need to know command line to do this.
 
-## b) In they Jupyter window you just opened, click "New" in the top right and selecte "Terminal" from the dropdown menu
+## b) In they Jupyter window you just opened, click "New" in the top right and select "Terminal" from the dropdown menu
 
 ## c) In the new terminal window that opens, right click and paste the following command into the terminal window then hit enter:
 
