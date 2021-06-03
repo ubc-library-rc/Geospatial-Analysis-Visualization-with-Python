@@ -41,7 +41,6 @@ Candian instututions rely on the lack of race based statistics to perpetuate a n
 
 
 
-
 # The end goal of the workshop is to produce an infographic on Police violence in Canada like this one.
 
 <a href="InfoGraphic.png" target="_blank">Open in New Tab</a>
