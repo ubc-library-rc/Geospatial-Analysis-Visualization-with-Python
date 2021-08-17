@@ -4,7 +4,7 @@ title: Basics of Python
 nav_order: 2
 ---
 
-# Python is a powerful programming language that is free to download and use.
+## Python is a powerful programming language that is free to download and use.
 * If you want your own installation, check out [Anaconda](https://www.anaconda.com/products/individual)
   * It will install most commonly used python packages and set everything up for you.
 
@@ -16,12 +16,12 @@ nav_order: 2
 * A related site that is more GIS focused site is [Stack Exchange](https://gis.stackexchange.com/)
 
 
-# Python relies on a series of packages (aka libraries) to handle different tasks
+## Python relies on a series of packages (aka libraries) to handle different tasks
 
 * Packages are collections of code that are designed specifically for performing different tasks, e.g.: Plotting, Statistics, Linear Algebra, etc.
 
 
-## We'll be working with the following packages today
+### We'll be working with the following packages today
 * [numpy](https://numpy.org/doc/stable/)
 	* Numpy is a powerful math library for multidimensional data
 * [pandas](https://pandas.pydata.org/docs/)
