@@ -1,0 +1,62 @@
+I"n
+<h2 id="python-is-a-powerful-programming-language-that-is-free-to-download-and-use">Python is a powerful programming language that is free to download and use.</h2>
+<ul>
+  <li>If you want your own installation, check out <a href="https://www.anaconda.com/products/individual">Anaconda</a>
+    <ul>
+      <li>It will install most commonly used python packages and set everything up for you.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="gis-w-python-resources">GIS w/ Python: Resources:</h3>
+
+<ul>
+  <li>A great place to go if you’re having issues with python is <a href="https://stackoverflow.com/">Stack Overflow</a>
+    <ul>
+      <li>Its a popular forum where you can search, post, and answer coding questions.</li>
+    </ul>
+  </li>
+  <li>A related site that is more GIS focused site is <a href="https://gis.stackexchange.com/">Stack Exchange</a></li>
+</ul>
+
+<h2 id="python-relies-on-a-series-of-packages-aka-libraries-to-handle-different-tasks">Python relies on a series of packages (aka libraries) to handle different tasks</h2>
+
+<ul>
+  <li>Packages are collections of code that are designed specifically for performing different tasks, e.g.: Plotting, Statistics, Linear Algebra, etc.</li>
+</ul>
+
+<h3 id="well-be-working-with-the-following-packages-today">We’ll be working with the following packages today</h3>
+<ul>
+  <li><a href="https://numpy.org/doc/stable/">numpy</a>
+    <ul>
+      <li>Numpy is a powerful math library for multidimensional data</li>
+    </ul>
+  </li>
+  <li><a href="https://pandas.pydata.org/docs/">pandas</a>
+    <ul>
+      <li>Pandas is a powerful library for handling data</li>
+    </ul>
+  </li>
+  <li><a href="https://geopandas.org/">geopandas</a>
+    <ul>
+      <li>This is a geospatial extension to pandas.  We’ll use it to handle and manipulate our geospatial data</li>
+    </ul>
+  </li>
+  <li><a href="https://docs.scipy.org/doc/scipy/reference/">scipy</a>
+    <ul>
+      <li>Scipy is math library, we’ll use it for calculating a linear regression &amp; chi square</li>
+    </ul>
+  </li>
+  <li><a href="https://matplotlib.org/contents.html">matplotlib</a>
+    <ul>
+      <li>Matplotlib is a powerful plotting library.  We’ll uses it to make detailed maps and graphs</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="well-be-using-a-ubc-server-with-python-already-installed--it-has-every-package-we-need-already-installed-on-it">We’ll be using a UBC server with python already installed.  It has every package we need already installed on it.</h3>
+<ul>
+  <li>If you are doing this using your own installation, you’ll need to make sure you install each of the above packages.  Instructions can be found on each packages webpage</li>
+</ul>
+
+:ET

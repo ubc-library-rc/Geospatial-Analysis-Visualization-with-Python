@@ -1,0 +1,23 @@
+I"l<h1 id="geospatial-data-in-python">Geospatial Data in Python</h1>
+
+<p>For working with vector data, <a href="https://geopandas.org/">geopandas</a> is one of your best optioins.  It is a spatial extension for pandas, the package for handling tabluar data we just worked with.</p>
+
+<ul>
+  <li><a href="https://docs.scipy.org/doc/scipy/reference/">scipy</a>
+    <ul>
+      <li>Scipy is math library, we’ll use it for calculating a linear regression &amp; chi square</li>
+    </ul>
+  </li>
+  <li><a href="https://matplotlib.org/contents.html">matplotlib</a>
+    <ul>
+      <li>Matplotlib is a powerful plotting library.  We’ll uses it to make detailed maps and graphs</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="well-be-using-a-ubc-server-with-python-already-installed--it-has-every-package-we-need-already-installed-on-it">We’ll be using a UBC server with python already installed.  It has every package we need already installed on it.</h3>
+<ul>
+  <li>If you are doing this using your own installation, you’ll need to make sure you install each of the above packages.  Instructions can be found on each packages webpage</li>
+</ul>
+
+:ET

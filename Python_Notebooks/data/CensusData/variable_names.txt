@@ -1,0 +1,4 @@
+VALUE0	# Household Population by Aboriginal Identity | Household Population For Aboriginal Identity | Aboriginal Identity, 2020
+VALUE1	# Basics | Total Population, 2020
+VALUE2	# Household Population by Visible Minority Status | Household Population For Visible Minority | Visible Minority Total | Visible Minority Black, 2020
+VALUE3	# Household Population by Visible Minority Status | Household Population For Visible Minority | Visible Minority Total, 2020
