@@ -58,8 +58,7 @@ We're going to open a command terminal and use command line clone the Github wor
 
 **3**{: .label .label-red } **Clone the Repository**
 
-Cloning tells Git (a file tracking software) to download a repository (collection of code, data, etc.) for this workshop.
-In the new terminal window that opens, paste this command and hit enter:
+Cloning tells Git (a file tracking software) to download a repository (collection of code, data, etc.) for this workshop.  In the new terminal window that opens, paste this command and hit enter:
 
 		https://github.com/ubc-library-rc/Geospatial-Analysis-Visualization-with-Python
 
