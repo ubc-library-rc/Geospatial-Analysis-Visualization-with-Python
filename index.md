@@ -23,6 +23,13 @@ Workshop created by June Skeeter june.skeeter@mubc.ca for the UBC Library Search
 
 This workshop deals with a difficult and painful subject that may be triggering to some, especially BIPOC individuals.  We are going to use a dataset of police killings and police involved deaths in Canada.  The intent behind choosing this dataset end goal of this workshop is to show that GIS, programming, data analysis, and data visualization can be powerful tools for promoting social and environmental justice issues.
 
+# Learning Objectives
+
+1) Cursory overview to python
+
+2) Introduction to geospatial analysis data with python
+
+3) Creating geospatial visualizations with python
 
 # Why Police-Involved Deaths in Canada?
 
@@ -71,32 +78,4 @@ Why do we say *traditional, ancestral, and unceded territory*?
 
 <iframe src="https://native-land.ca/api/embed/embed.html?maps=treaties" style="width:80%; height:400px; border:none;"></iframe>
 
-
-# Learning Objectives
-
-1) Cursory overview to python
-
-2) Introduction to geospatial analysis data with python
-
-3) Creating geospatial visualizations with python
-
-# Final Product
-
-The end goal of the workshop is to produce an infographic on Police violence in Canada like this one.
-
-<a href="InfoGraphic.png" target="_blank">Open in New Tab</a>
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="InfoGraphic.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
 

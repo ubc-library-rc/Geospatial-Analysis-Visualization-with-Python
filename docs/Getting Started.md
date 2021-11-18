@@ -60,7 +60,7 @@ We're going to open a command terminal and use command line clone the Github wor
 
 Cloning tells Git (a file tracking software) to download a repository (collection of code, data, etc.) for this workshop.  In the new terminal window that opens, paste this command and hit enter:
 
-		https://github.com/ubc-library-rc/Geospatial-Analysis-Visualization-with-Python
+		git clone https://github.com/ubc-library-rc/Geospatial-Analysis-Visualization-with-Python
 
 A folder called Geocoding-Web-Mapping-with-Python should now be visible.  You can explore it using file viewer on the left, or you can use the command line (see video).
 
