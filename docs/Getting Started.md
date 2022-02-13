@@ -72,7 +72,7 @@ In the file viewer you will see a folder called **Geospatial-Analysis-Visualizat
     * Clip
 
 
-* **Example Workflow.ipynb**: Shows a practical application of how you can use python violence at the hands of Police in BC.  This will also introduce new skills:
+* **Analyzing Police Violence with Python.ipynb**: Shows a practical application of how you can use python violence at the hands of Police in BC.  This will also introduce new skills:
   * Import a .csv file and project latitude/longitude data 
   * Spatial overlay
     * Spatial join
