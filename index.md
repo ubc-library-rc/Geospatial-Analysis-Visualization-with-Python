@@ -25,18 +25,20 @@ This workshop deals with a difficult and painful subject that may be triggering 
 
 # Learning Objectives
 
-1) Cursory overview to python
+1) Cursory overview of data analysis with Python.
 
-2) Introduction to geospatial analysis data with python
+2) Introduction to geospatial analysis  with Python.
+  * Reading and writing vector data.
+  * Vector overlays.
+  * Spatial intepolation.
 
-3) Creating geospatial visualizations with python
+3) Creating geospatial visualizations with Python
 
 # Why Police-Involved Deaths in Canada?
 
-Racism is ingrained in the history of policing in Canada since the founding of the Royal Canadian Mounted Police (RCMP) in 1873.  Police in Canada play a central tool in Canada's ongoing genocide of Indigenous people, actively work to oppress BIPOC communities, and maintain systems of oppression in Canadian society.  Police institutions exist to do the bidding of those in power, not protect the public.
-
-Canadian institutions rely on the lack of race based statistics and other demographic information to perpetuate a narrative that systemic racism is "just an American issue" and that Canada is "better".  As a white settler and immigrant from the United States, I fell for that narrative and did not question it for years.  
+Racism is ingrained in the history of policing in Canada since the founding of the Royal Canadian Mounted Police (RCMP) in 1873.  Police play a central tool in Canada's ongoing genocide of Indigenous people and they work to maintain systems of oppression throughout in Canadian society.  Canadian institutions rely on the lack of race based statistics and other demographic information to perpetuate a narrative that systemic racism is "just an American issue" and that Canada is "better".  As a white settler and immigrant from the United States, I fell for that narrative and did not question it for years.  
 * We need to have discussions about systemic racism in Canada and make it part of the public discourse in order to hold Canadian institutions accountable.
+
 
 ## Notes on Terminology
 
@@ -46,36 +48,9 @@ Canadian institutions rely on the lack of race based statistics and other demogr
 
 ## Increasing Police Violence in Canada
 
-There has been an [increasing trend](https://police-involved-deaths-ca.github.io/Data/#increasing-police-violence-in-canada) in deaths at the hands of Canadian Police over recent years.  This may be partly an result of greater access to information, but it is also probable that Canadian Police *are* becoming more violent.
-
-# Territorial Acknowledgement
+There has been an increasing trend in deaths at the hands of Canadian Police over recent years [<sup>1</sup>](https://police-involved-deaths-ca.github.io/Data/#increasing-police-violence-in-canada) .  This may be partly an result of greater access to information, but it is also likely that Canadian Police *are* becoming more violent.
 
 
-UBC and the city of Vancouver are on the traditional, ancestral, and unceded territory of the Coast Salish Peoples.  Specifically the xʷməθkʷəy̓əm (Musqueam), əl̓ilwətaɁɬ (Tsleil-Waututh), and Skwxwú7mesh-ulh (Squamish) Nations.
-
-<img src="docs/images/first-nations-bc.jpg" alt="hi" class="inline" width="500"/>
-
-<a href="https://opentextbc.ca/indigenizationfoundations/chapter/acknowledging-traditional-territories/" target="_blank">Map Source</a>
-
-## Why Do a Territorial Acknowledgement?
-
-For centuries, settler societies have perpetuated a genocide against Indigenous people across the globe.  In many ways this genocide is still ongoing here in British Columbia and across Canada.  There has been concerted effort by the government, religious organizations, and educational institutions to erase Indigenous cultures and identity from both the land and the map.  Historically, maps have been used as tools of oppression and we must work to de-colonize our practices in GIS.  A land acknowledgement is one small way to help with that.  It isn't just a formality.  It is a time to reflect and build understanding.  The maps and information presented below are sourced from [native-land.ca](https://native-land.ca/).  
-
-## What Does it Mean?
-
-Why do we say *traditional, ancestral, and unceded territory*?
-
-**Traditional**: recognizes that the lands were traditionally used and/or occupied.  The [xʷməθkʷəy̓əm](https://native-land.ca/maps/territories/x%ca%b7m%c9%99%ce%b8k%ca%b7%c9%99y%cc%93%c9%99m/), and [əl̓ilwətaɁɬ](https://native-land.ca/maps/territories/tsleil-waututh-s%c9%99l%cc%93ilw%c9%99ta%c9%82%c9%ac/), [Skwxwú7mesh-ulh](https://native-land.ca/maps/territories/skwxwu7mesh-uxwumixw/)Nations have traditionally occupied this area.
-
-<iframe src="https://native-land.ca/api/embed/embed.html?maps=territories&name=skwxw7mesh-xwumixw,tsleil-waututh-səl̓ilwətaɂɬ,xʷməθkʷəy̓əm" style="width:80%; height:400px; border:none;"></iframe>
-
-**Ancestral**: recognizes land that is handed down from generation to generation.  It is meant to convey a deep rooted connection to the land.  Language has strong connections to ancestry.  The xʷməθkʷəy̓əm and əl̓ilwətaɁɬ speak dialects of [Hul’q’umi’num’ / Halq’eméylem / hən̓q̓əmin̓əm̓](https://native-land.ca/maps/languages/hulquminum-halqemeylem-h%c9%99n%cc%93q%cc%93%c9%99min%cc%93%c9%99m%cc%93/) and the Skwxwú7mesh-ulh speak [Sḵwx̱wú7mesh sníchim](https://native-land.ca/maps/languages/s%e1%b8%b5wx%cc%b1wu7mesh-snichim/).
-
-<iframe src="https://native-land.ca/api/embed/embed.html?maps=languages&name=hulquminum--halqemylem--hnqminm,swxw7mesh-snchim" style="width:80%; height:400px; border:none;"></iframe>
-
-
-**Unceded**: refers to land that was not turned over to the Crown (government) by a treaty or other agreement.  Over 95% of the land in BC was never ceded by treaty.
-
-<iframe src="https://native-land.ca/api/embed/embed.html?maps=treaties" style="width:80%; height:400px; border:none;"></iframe>
+<img src="https://police-involved-deaths-ca.github.io/Data/docs/images/Annual.png" alt="hi" class="inline" width="600"/>
 
 
