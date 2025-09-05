@@ -1,4 +1,4 @@
-# Geospatial-Analysis-Visualization-with-Python
+# Geospatial Analysis and Visualization with Python
 
 This workshop is an introduction to conducting geospatial analysis and visualization with python.
 
